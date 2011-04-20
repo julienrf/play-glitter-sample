@@ -1,0 +1,14 @@
+# Application dependencies
+
+require:
+    - play
+    - play -> glitter 0.1
+
+
+# repositories:
+#     - localGlitter:
+#         type: local
+#         artifact: "/home/julien/Workspace/play-glitter"
+#         descriptor: "/home/julien/Workspace/play-glitter/conf/dependencies.yml"
+#         contains:
+#             - glitter -> glitter

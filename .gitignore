@@ -1,0 +1,8 @@
+/tmp
+/modules
+/eclipse
+ivy-2.2.0.jar
+.scala_dependencies
+.classpath
+.project
+.settings

@@ -1,0 +1,3 @@
+h1. Glitter module sample Play! application
+
+See the "glitter module":play-glitter for more information. 
